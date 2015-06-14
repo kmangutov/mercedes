@@ -1,0 +1,41 @@
+// bower:scss
+// endbower
+
+@import "fonts";
+
+.dashboard-container {
+  max-width: 600px;
+}
+
+.big-gage {
+  width: 600px;
+  height: 400px;
+}
+
+.small-gage {
+  width: 250px;
+  height: 125px;
+}
+
+.tab-container {
+  
+  width: 100vw;
+  background-color: #EEE;
+  height: 60px;
+}
+
+.tab {
+  padding-top: 7px;
+  @extend .title;
+  color: #111;
+  width: 50%;
+  height: 100%;
+}
+
+.selected {
+  background-color: #CCC;
+}
+
+.fifth-block {
+  height: 15vh;
+}

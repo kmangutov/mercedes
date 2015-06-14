@@ -1,0 +1,53 @@
+{
+  "Car" : {
+    "Accelerator_Pedal" : 14,
+    "Battery_Level" : 77.91230883,
+    "Door_State_Front_Left" : 1,
+    "Door_State_Front_Right" : 1,
+    "Door_State_Rear_Left" : 1,
+    "Door_State_Rear_Right" : 1,
+    "Fuel_Consumption" : 3.968910184,
+    "Fuel_Level" : 20.6,
+    "Fuel_Level_Critical" : false,
+    "GPS_Latitude" : 37.8052502222,
+    "GPS_Longitude" : -122.403710917,
+    "Honk_State" : 0,
+    "Inside_Temperature" : 22,
+    "Odometer" : 24167.8,
+    "Outside_Air_Temperature" : 16,
+    "SpeedLimit_Unit" : "mph",
+    "SpeedLimit_Value" : 65,
+    "Timestamp" : 1.433202213445E9,
+    "Tire_Pressure_Front_Left" : 2.525,
+    "Tire_Pressure_Front_Right" : 2.6,
+    "Tire_Pressure_Rear_Left" : 2.7,
+    "Tire_Pressure_Rear_Right" : 2.675,
+    "Turn_Indicator_State" : 0,
+    "Vehicle_Speed" : 91.6
+  },
+  "Uber" : {
+    "GPS_Latitude" : 37.3857165278,
+    "GPS_Longitude" : -122.261341278,
+    "Prices" : {
+      "High" : {
+        "UberBLACK" : 534,
+        "UberSUV" : 583,
+        "uberX" : 198,
+        "uberXL" : 325
+      },
+      "Low" : {
+        "UberBLACK" : 404,
+        "UberSUV" : 443,
+        "uberX" : 151,
+        "uberXL" : 247
+      }
+    },
+    "Times" : {
+      "UberBLACK" : 967,
+      "UberSUV" : 967,
+      "uberX" : 1292,
+      "uberXL" : 1545
+    },
+    "value" : "pie"
+  }
+}
